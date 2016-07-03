@@ -8,7 +8,9 @@ layout: feed
 	<link href="http://cambyses.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://cambyses.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	
 	<id>http://cambyses.github.io/blog</id>
+	
 	<author>
 		<name>Kambiz Behi</name>
 		<email>kambizbehi@gmail.com</email>
