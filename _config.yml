@@ -1,5 +1,6 @@
 name: Kambiz Behi
 author: Kambiz Behi
+author_email: kambizbehi@gmail.com
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 baseurl: /
