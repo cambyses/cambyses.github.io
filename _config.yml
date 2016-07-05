@@ -1,6 +1,7 @@
 name: Kambiz Behi
 author: Kambiz Behi
 author_email: kambizbehi@gmail.com
+description: This is a simple Jekyll Blog.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 baseurl: /
