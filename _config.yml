@@ -5,3 +5,6 @@ description: This is a simple Jekyll Blog.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 baseurl: /
+address:
+- line: Harvard Sqaure
+- line: Cambridge, MA 02138
