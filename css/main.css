@@ -53,7 +53,8 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    letter-spacing: .2em;
 }
 
 h1 {
