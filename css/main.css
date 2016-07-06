@@ -55,6 +55,7 @@ a {
 a:hover {
     text-decoration: none;
     letter-spacing: .2em;
+    color: #dddbd8;
 }
 
 h1 {
