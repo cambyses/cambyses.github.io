@@ -20,6 +20,10 @@ body {
 
 /* ------------------------------- NAV STYLE ----------------------------*/
 
+nav {
+    border-bottom: 1px solid #d5d5d5;
+}
+
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
