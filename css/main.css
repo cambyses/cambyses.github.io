@@ -15,14 +15,14 @@ Black -- #141414
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: lightblue;
+    background-color: #efefef;
 }
 
 /* ------------------------------- NAV STYLE ----------------------------*/
 
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
