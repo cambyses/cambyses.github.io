@@ -50,7 +50,7 @@ footer ul li {
     margin-right: 20px;
 }
 
-footer ul .list-inline {
+footer ul .list-inline li {
     display: inline;
 }
 
