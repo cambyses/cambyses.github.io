@@ -125,6 +125,14 @@ ul.posts li {
   outline: none;
 }
 
+/* ------------------------------- Middle Div ----------------------------*/
+
+div .blurb {
+    background-color: black;
+} 
+
+/* ------------------------------- Other ----------------------------*/
+
 /*
 .floating-label-form-group {
     position: relative;
