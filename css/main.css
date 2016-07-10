@@ -15,13 +15,14 @@ Black -- #141414
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #efefef;
+    
 }
 
 /* ------------------------------- NAV STYLE ----------------------------*/
 
 nav {
     border-bottom: 1px solid #d5d5d5;
+    background-color: #efefef;
 }
 
 nav ul {
