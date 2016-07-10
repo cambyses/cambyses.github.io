@@ -9,6 +9,7 @@ Rust Red -- #662d20
 Coral - #f06445
 White -- #efefef
 Black -- #141414
+background-color: #efefef;
 */
 
 
@@ -22,7 +23,6 @@ body {
 
 nav {
     border-bottom: 1px solid #d5d5d5;
-    background-color: #efefef;
 }
 
 nav ul {
