@@ -10,6 +10,7 @@ Coral - #f06445
 White -- #efefef
 Black -- #141414
 background-color: #efefef;
+background: url("background.jpg") no-repeat center center fixed; 
 */
 
 
@@ -38,10 +39,9 @@ nav ul li {
  
 }
 
-/* ------------------------------- Middle DIV ----------------------------*/
+/* ------------------------------- MIDDLE DIV ----------------------------*/
 
 div .blurb {
-    background: url("background.jpg") no-repeat center center fixed; 
     height: 700px;
     width: 200px;
 } 
