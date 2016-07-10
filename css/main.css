@@ -107,9 +107,9 @@ ul.posts li {
 /* ------------------------------- Botton ----------------------------*/
 
 .btn-outline {
-    color: white;
+    color: #efefef;
     font-size: 20px;
-    border: solid 2px white;
+    border: solid 2px #efefef;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
