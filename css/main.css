@@ -37,6 +37,14 @@ nav ul li {
  
 }
 
+/* ------------------------------- Middle DIV ----------------------------*/
+
+div .blurb {
+    background: url(bg_apple_little.gif) no - repeat center center;
+    height: 200px;
+    width: 200px;
+} 
+
 /* ------------------------------- FOOTER STYLE ----------------------------*/
 
 footer ul {
@@ -124,12 +132,6 @@ ul.posts li {
 .btn:focus, .btn:active, .btn.active {
   outline: none;
 }
-
-/* ------------------------------- Middle Div ----------------------------*/
-
-div .blurb {
-    background-color: black;
-} 
 
 /* ------------------------------- Other ----------------------------*/
 
