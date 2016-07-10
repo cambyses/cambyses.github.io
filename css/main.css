@@ -40,7 +40,7 @@ nav ul li {
 /* ------------------------------- Middle DIV ----------------------------*/
 
 div .blurb {
-    background: url(background.gif) no - repeat center center;
+    background: url("background.jpg") no-repeat center center fixed; 
     height: 200px;
     width: 200px;
 } 
