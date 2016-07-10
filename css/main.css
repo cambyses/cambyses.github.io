@@ -41,6 +41,8 @@ nav ul li {
 
 div .blurb {
     background: url("background.jpg") no-repeat center center fixed; 
+    height: 300px;
+    width: 200px;
 } 
 
 /* ------------------------------- FOOTER STYLE ----------------------------*/
